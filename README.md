@@ -1,6 +1,11 @@
 # MyFie
 The MYFIE Project
+
+
 Monetize your Selfie
+
+
+
 Background:
 
 Robert Cornelius's 1839 photograph of himself is possibly the first ever recorded history of a selfie ever taken with a photographic device.
